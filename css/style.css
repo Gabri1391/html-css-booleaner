@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    background-color: dodgerblue;
+    background-image: url("../css/img/pattern.png");
+}
+
+#logo-box{
+    width: 150px;
+    line-height: 200px;
+   
+}
+
+.editor{
+    color: gray;
+}
+
+#author{
+    color: lightskyblue;
+    font-style: italic;
+}
+
+figure{
+    margin-top: 10px;
+    font-size: 0.7rem;
+}
+
+
